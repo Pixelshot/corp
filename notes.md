@@ -11,3 +11,5 @@
 ### add "public/_": ["./public/_"] to tsconfig.json if assets from public can't be loaded/not found
 
 ### CSS trick to make one side to appear blurred whilst blending in to the background - in hero.tsx: pt-48 flex justify-center items-center
+
+### Images load quite slow for first time users
